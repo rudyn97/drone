@@ -1,0 +1,14 @@
+com\rudyn\drones\service\MedicationServiceImpl.class
+com\rudyn\drones\DronesApplication.class
+com\rudyn\drones\service\DroneService.class
+com\rudyn\drones\service\MedicationService.class
+com\rudyn\drones\errors\ValidationOnlyErrorResponse.class
+com\rudyn\drones\model\Drone.class
+com\rudyn\drones\controllers\ApiMedication.class
+com\rudyn\drones\controllers\ApiDrone.class
+com\rudyn\drones\model\Medication.class
+com\rudyn\drones\repository\DroneRepository.class
+com\rudyn\drones\errors\ValidationErrorResponse.class
+com\rudyn\drones\ServletInitializer.class
+com\rudyn\drones\repository\MedicationRepository.class
+com\rudyn\drones\service\DroneServiceImpl.class
